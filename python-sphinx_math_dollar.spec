@@ -2,7 +2,7 @@
 # Conditional build:
 %bcond_with	tests	# unit tests (missing test-build data?)
 %bcond_without	python2 # CPython 2.x module
-%bcond_without	python3 # CPython 3.x module
+%bcond_with	python3 # CPython 3.x module (built from python3-sphinx_math_dollar.spec)
 
 Summary:	Sphinx extension to let you write LaTeX math using $$
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa pozwalające pisać wzory matematyczne w LaTeXu przy użyciu $$
