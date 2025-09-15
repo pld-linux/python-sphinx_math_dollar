@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Rozszerzenie Sphinksa pozwalające pisać wzory matematyczne 
 Name:		python-sphinx_math_dollar
 # keep 1.2 here for python2 support
 Version:	1.2
-Release:	3
+Release:	4
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-math-dollar/
